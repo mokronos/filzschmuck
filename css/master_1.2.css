@@ -299,6 +299,9 @@ img.center {
   font-size: 32px;
   font-family: dosis;
 }
+.nameevent a:link{
+  color: black;
+}
 .galimg{
   position: absolute;
   width: 40%;
